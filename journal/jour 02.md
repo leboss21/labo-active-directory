@@ -16,3 +16,4 @@ Install-ADDSForest `
 -SysvolPath "C:\WINDOWS\SYSVOL" `
 -Force:$true
 
+![hostname](../captures/jour-02-Get-ADDomain.png)
