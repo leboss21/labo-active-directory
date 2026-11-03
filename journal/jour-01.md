@@ -26,4 +26,4 @@ Préparer l'environnement de virtualisation et installer le futur contrôleur de
 - La différence entre Server Core et Expérience de bureau.
 - Prendre un instantané (snapshot) avant chaque étape importante.
 
-![hostname](jour-01-hostname.png)
+![hostname](../captures/jour-01-hostname.png)
