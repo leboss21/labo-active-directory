@@ -12,3 +12,4 @@
 - Partage créé sur tout le disque C: → supprimé (`Remove-SmbShare`), recréé sur `C:\Partages`
 - Comptabilite en lecture seule `(NP)(RX)` et groupe mal nommé (CG_) → `icacls /reset`, groupe renommé, permissions refaites
 - VM très lentes → dossier des VM exclu de l'antivirus, mémoire VMware réservée en RAM
+- Disque de l'hôte à 7 Go → instantanés supprimés (18 Go de fichiers delta), Windows Update coupé dans les VM, disques compactés : 50 Go libres
